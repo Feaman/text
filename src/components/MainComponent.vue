@@ -152,6 +152,7 @@ function  hideTools() {
   outline: 0;
   background-color: #fff;
   color: #000;
+  overflow: hidden;
 }
 
 .tools {
